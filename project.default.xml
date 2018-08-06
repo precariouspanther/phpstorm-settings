@@ -7,7 +7,7 @@
         </behat_settings>
       </component>
       <component name="ComposerSettings">
-        <pharConfigPath>$USER_HOME$/code/bigcommerce-app-vm/codebases/bigcommerce/composer.json</pharConfigPath>
+        <pharConfigPath>$USER_HOME$/code/cloud-dev-vm/codebases/bigcommerce/composer.json</pharConfigPath>
         <pharPath>$USER_HOME$/bin/composer.phar</pharPath>
       </component>
       <component name="InspectionProjectProfileManager">
@@ -16,7 +16,7 @@
       </component>
       <component name="PhpCodeSniffer">
         <phpcs_settings>
-          <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/code/bigcommerce-app-vm/codebases/bigcommerce/vendor/bin/phpcs" />
+          <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/code/cloud-dev-vm/codebases/bigcommerce/vendor/bin/phpcs" />
         </phpcs_settings>
       </component>
       <component name="PhpProjectSharedConfiguration" php_language_level="7" />
@@ -85,7 +85,7 @@
         <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
       </component>
       <component name="VagrantProjectSettings">
-        <option name="instanceFolder" value="$USER_HOME$/code/bigcommerce-app-vm" />
+        <option name="instanceFolder" value="$USER_HOME$/code/cloud-dev-vm" />
         <option name="provider" value="" />
       </component>
       <component name="VcsContentAnnotationSettings">
